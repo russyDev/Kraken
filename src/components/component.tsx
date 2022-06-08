@@ -16,7 +16,6 @@ export default class Component implements TComponent {
     
     isRerenderEnabled = true;
 
-
     constructor(props: {name: string, render: any}) {
     }
    
